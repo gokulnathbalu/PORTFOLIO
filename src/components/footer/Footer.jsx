@@ -23,7 +23,7 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-                <a href="https://github.com/gokulnathbalu" className="footer__social-link" target= "_blank">
+                <a href="https://github.com/gokulnathbalu" className="footer__social-link" target="_blank" rel="noreferrer">
                     <i className="uil uil-github-alt"></i>
                 </a>
             </div>
